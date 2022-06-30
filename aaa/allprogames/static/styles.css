@@ -1,0 +1,73 @@
+body{
+	background-image: url('https://www.myfreewalls.com/public/uploads/preview/dark-abstract-gaming-color-5k-wallpaper-11625792127spo6ievzi6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#menu li{
+	display: inline;
+    margin:5px;
+    padding:5px;
+}
+.logo{
+    float:left;
+}
+#menu li a{
+    font-family: arial;
+    font-size: 15px;
+    float: right;
+    margin:7px;
+    padding:7px;
+}
+#menu li a:hover{
+    Background-color: #585E5F;
+    margin:7px;
+    padding:7px;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+.barra{
+    background-color: black;
+    padding-bottom:10px;
+    margin:0px;
+}
+.bajo_barra{
+    background-color: #00C1AC;
+    padding-bottom:5px;
+}
+.cuerpo{
+    margin-left:50px;
+    margin-right:500px;
+    background-color: white;
+    opacity: 0.5;
+}
+.image{
+    float:left;
+    margin-top:0px;
+}
+footer .Pie_Pagina{
+    opacity: 0.9;
+    background-color: white;
+}
+.div1{
+    float: left;
+    margin-top: 10px;
+    background-color: black;
+    opacity: 0.5;
+    margin-right:980px;
+}
+.linea1{
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+}
+.div2{
+    float: center;
+    background-color: black;
+    opacity: 0.5;
+    margin-right:500px;
+    margin-left:480px;
+    margin-top:10px;
+}
+
